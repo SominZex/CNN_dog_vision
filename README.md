@@ -1,7 +1,7 @@
 ## End to End Neural Network project 
 
-### Project Summary : The project is about building Multiclass Classification neural network to identify 120 different Dog Breeds. Dataset contains 10,000 Dog images for training, 10,000 images for testing and some custom dog images for validation.
-#### N.B.: Operation Carried out in Google Colab by integrating Google Drive for deirectory and data retreival. In case one wants to use the project must change path directories in the codeblocks as in your local environment
+### Project Summary : The project is about building Multiclass Classification neural network AKA Convulutional Neural Network (CNN) to identify 120 different Dog Breeds. Dataset contains 10,000 Dog images for training, 10,000 images for testing and some custom dog images for validation.
+#### N.B.: Operation Carried out in Google Colab by integrating Google Drive for deirectory and data retrieval. In case one wants to use the project must change path directories in the codeblocks as in your local environment
 
 ### Contents:
 1. requirements.txt file
